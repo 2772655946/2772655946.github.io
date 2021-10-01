@@ -5,6 +5,7 @@
         "https:\/\/cdn.jsdelivr.net\/gh\/jieapi\/cdn"
     ],
     "support_cdn": [
-        "lightyear"
+        "lightyear",
+        "green"
     ]
 }
