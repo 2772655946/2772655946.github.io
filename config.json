@@ -1,11 +1,10 @@
 {
-    "version": "1.0.8.60",
+    "version": "1.0.8.51",
     "inform": "\u6709BUG\u8bf7\u53cd\u9988\u3002\u6b22\u8fce\u52a0\u5165\u5c0f\u6770\u4ea4\u6d41\u7fa4\uff1a<a href=\"https:\/\/jq.qq.com\/?_wv=1027&k=9Uy8rVct\" target=\"_blank\">\u70b9\u6211\u8fdb\u5165<\/a>",
     "resource_cdn": [
         "https:\/\/cdn.jsdelivr.net\/gh\/jieapi\/cdn"
     ],
     "support_cdn": [
-        "lightyear",
-        "green"
+        "lightyear"
     ]
 }
