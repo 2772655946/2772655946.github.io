@@ -1,10 +1,10 @@
 {
-    "version": "1.0.8.51",
-    "inform": "\u6709BUG\u8bf7\u53cd\u9988\u3002\u6b22\u8fce\u52a0\u5165\u5c0f\u6770\u4ea4\u6d41\u7fa4\uff1a<a href=\"https:\/\/jq.qq.com\/?_wv=1027&k=9Uy8rVct\" target=\"_blank\">\u70b9\u6211\u8fdb\u5165<\/a>",
-    "resource_cdn": [
-        "https:\/\/cdn.jsdelivr.net\/gh\/jieapi\/cdn"
-    ],
-    "support_cdn": [
-        "lightyear"
-    ]
+        "version": "1.0.8.51",
+        "inform": "\u5982\u679c\u4f7f\u7528\u672c\u7a0b\u5e8f\u8fc7\u7a0b\u4e2d\u9047\u5230\u95ee\u9898\uff0c<a href=\"https:\/\/www.kancloud.cn\/xiaojieapi\/jieadmin\/content\" target=\"_blank\">\u53ef\u4ee5\u70b9\u51fb\u8fd9\u91cc<\/a>\uff0c\u67e5\u627e\u76f8\u5173\u89e3\u51b3\u529e\u6cd5\u3002\u6b22\u8fce\u52a0\u5165\u5c0f\u6770\u4ea4\u6d41\u7fa4\uff1a<a href=\"https:\/\/jq.qq.com\/?_wv=1027&k=9Uy8rVct\" target=\"_blank\">\u70b9\u6211\u8fdb\u5165<\/a>",
+        "resource_cdn": [
+                    "https:\/\/cdn.jsdelivr.net\/gh\/jieapi\/cdn"
+                ],
+        "support_cdn": [
+                    "lightyear"
+                ]
 }
